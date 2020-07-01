@@ -134,7 +134,7 @@
         // initQuery=alterQuery(initQuery,"WHERE","a.category<>\"son-dakika\"" );
         var config = {
             container_id: "viz",
-            server_url: "bolt://144.122.71.25:8082",
+            server_url: "bolt://144.122.71.70:8082",
             server_user: "neo4j",
             server_password: "neo4j%nevis",
             labels: {
